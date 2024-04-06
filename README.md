@@ -4,6 +4,8 @@
 
 Weatheria is an app I developed using vite(react). It uses data from weatherBit api. Latest info is provided by this app about the current weather conditions.
 
+**To View Weather Info about your city just enter your city name in the settings and click on -Get Weather Updates- Button**
+
 Visit my App - [Weatheria](https://myweatheria.netlify.app/)
 
 Technologies used:
@@ -21,17 +23,22 @@ This app uses the weatherbit api with 21 days free plan. If you have a better op
 - Fork the repo and clone it.
 - Install dependencies using node(npm) or yarn.
   - To install dependencies use..
-    `> npm install # for npm installation`
-    `> yarn # for yarn installation`
+    `> npm install`(using npm) or
+    `> yarn`(using yarn)
 - Run it using ...
-  `> npm run dev #YARN`
-  `> yarn run dev #YARN`
+  `> npm run dev` (NPM) or
+  `> yarn run dev` (YARN)
 
 - The project will start on localhost:3000, You can now make changes to the project or contribute to it however you like.
 
-##
+## Themes
 
-#
+In this app I have included 4 theme options.
+
+- Day
+- Night
+- Blue
+- Pink
 
 ## Me
 
