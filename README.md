@@ -36,9 +36,9 @@ This app uses the weatherbit api with 21 days free plan. If you have a better op
 - To run a localhost on your mobile use...
   - `>npm run dev --host` or `>yarn run dev --host` and the terminal will show the below commands.
     - `➜  Local:   http://localhost:5173/`
-    - `➜  Network: http://10.104.218.56:5173/`
+    - `➜  Network: http://XX.XXX.XXX.XX:5173/`
     - `➜  press h + enter to show help`
-  - Now connect your mobile and laptop to a common wifi and search the network url *http://10.104.218.56:5173/* in your mobile browser to get localhost mobile view.
+  - Now connect your mobile and laptop to a common wifi and search the network url *http://XX.XXX.XXX.XX:5173/* in your mobile browser to get localhost mobile view.
 
 ## Themes
 
